@@ -1,37 +1,41 @@
 {
-    "name": "Aminuddin Rizal (林安明)- Lecturer Computer and Electronic Engineering",
-    "description": "Dedicated and dynamic Computer Engineer with a passion for teaching and sharing knowledge. Possessing extensive experience in both industry and academia, with a solid foundation in computer engineering principles and technologies. Proven track record of delivering engaging lectures and fostering an interactive learning environment conducive to student success. Adept at integrating real-world examples and practical applications into curriculum to enhance student understanding. Committed to staying abreast of emerging trends in computer engineering and incorporating them into instructional materials. Seeking to leverage expertise in computer engineering and passion for education to inspire and empower the next generation of engineers.",
+    "name": "Diva Sania- Elektronic Engineering student",
+    "description": "I am a student at Politeknik Negeri Semarang majoring in Electrical Engineering, specializing in the D3-Electronics Engineering Program, with a GPA of 3.59. I am capable of working both independently and in a team, disciplined, responsible in carrying out tasks, quick to learn new things, and communicative. I possess skills in using engineering software such as Arduino IDE, Matlab, Proteus, Process Engineer, and Research and Development tools, as well as data analysis using Excel. I have a strong interest in various fields, particularly in IoT technology, automation, and hardware development. With a strong passion for learning and continuous improvement, I am ready to contribute optimally to technological advancement and innovation.",
     "profileImage": "images/profile.jpg",
-    "email": "aminuddin.rizal@polines.ac.id",
-    "phone": "+62 (851) 324-78890",
+    "email": "saniadiva81@gmail.com",
+    "phone": "+62 (838) 04262916 ",
     "socialMedia": [
         {
-            "platform": "LinkedIn",
-            "url": "https://linkedin.com/in/aminuddin-rizal128"
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/saniadiva__?igsh=MWhpYTJoNHhkcGZ3bA%3D%3D&utm_source=qr "
         },
         {
             "platform": "GitHub",
-            "url": "https://github.com/rizalhalim9"
+            "url": "https://github.com/DivaSania/Portofoliosania"
         },
         {
             "platform": "Twitter",
-            "url": "https://twitter.com/redpandalin"
+            "url": "https://x.com/diva_sania123?t=v5FqjNLk8bKwg4RrIOa3Sw&s=08 "
+        },
+        {
+            "platform": "Tiktok",
+            "url": "https://www.tiktok.com/@divasania321?_t=ZS-8xEJhrDqfy5&_r=1 "
         }
+        
     ],
     "cv": {
 			"text": "Download CV",
-			"file": "docs/cv.pdf",
+			"file": "docs/CV DIVA SANIA.pdf",
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 90},
-        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
-        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
+        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 90},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 75},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
-	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
-        {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
-	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
-	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
-	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 80},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 70},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 80},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 50},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 50}
     ]
 }
