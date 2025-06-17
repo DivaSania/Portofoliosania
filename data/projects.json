@@ -1,12 +1,18 @@
 [
     {
-        "title": "FPGA-based System for Continuous Vital Signs Monitoring",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project1.png",
-        "link": "https://example.com/solar-water"
+        "title": "Innovation to Improve the Efficiency of Rooftop Solar Panels",
+        "year": "2024",
+        "partner": "Collaboration between Polines and PT Sogy Energy Indonesia",
+        "description": "Polines and PT Sogy Energy Indonesia developed the Smart Cooling Solution for Efficient Photovoltaic Roofing to enhance rooftop solar panel efficiency. This solution utilizes IoT to automatically clean the panels and reduce heat, with easy control via a website or app. The innovation addresses efficiency losses caused by overheating and dir.",
+        "image": "images/Inovokasi.jpg",
+        "link": "https://jateng.pikiran-rakyat.com/pendidikan/pr-3738859156/kolaborasi-polines-dan-pt-sogy-energy-indonesia-hadirkan-inovasi-tingkatkan-efisiensi-panel-surya-rooftop"
+    },
+    {
+        "title": "Developing a Smart Cooling Solution for Efficient Photovoltaic Systems",
+        "year": "2024",
+        "partner": "Collaboration between Polines and PT Sogy Energy Indonesia",
+        "description": "The Polines Service Team and PT Sogy Energy Indonesia developed the *Smart Cooling Solution for Efficient Photovoltaic Roofing* to help rural communities improve the efficiency of rooftop solar panels by up to 20%. This technology utilizes IoT to automatically clean the panels and reduce heat, while also simplifying maintenance through an easily accessible application. With this solution, rural communities can more efficiently harness renewable energy while reducing technical challenges in solar panel maintenance.",
+        "image": "images/bima.jpg",
+        "link": "https://https://www.realtimes.id/news/20749769/inovasi-polines-dan-pt-sogy-energy-indonesia-ciptakan-smart-cooling-solution-for-efficient-photovoltaic"
     }
 ]
